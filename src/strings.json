@@ -1,0 +1,47 @@
+{
+  "en": {
+    "language_name": "English",
+    "og_locale": "en_GB",
+    "brand": "Inky",
+    "skip": "Skip to content",
+    "menu_label": "Main menu",
+    "language_label": "Language",
+    "nav": { "index": "Home", "support": "Help", "privacy": "Privacy", "terms": "Terms" },
+    "footer_contact": "Questions? Write to us at",
+    "footer_trademark": "Apple and App Store are trademarks of Apple Inc.",
+    "store_small": "Download on the",
+    "store_soon": "Coming soon to the App Store",
+    "not_found_title": "Page not found",
+    "not_found_body": "Inky looked everywhere but couldn't find that page. <a href=\"/\">Back to the home page</a>."
+  },
+  "de": {
+    "language_name": "Deutsch",
+    "og_locale": "de_DE",
+    "brand": "Inky",
+    "skip": "Zum Inhalt springen",
+    "menu_label": "Hauptmenü",
+    "language_label": "Sprache",
+    "nav": { "index": "Start", "support": "Hilfe", "privacy": "Datenschutz", "terms": "Nutzungsbedingungen" },
+    "footer_contact": "Fragen? Schreiben Sie uns an",
+    "footer_trademark": "Apple und App Store sind Marken von Apple Inc.",
+    "store_small": "Laden im",
+    "store_soon": "Bald im App Store",
+    "not_found_title": "Seite nicht gefunden",
+    "not_found_body": "Inky hat überall gesucht, aber diese Seite nicht gefunden. <a href=\"/de/\">Zur Startseite</a>."
+  },
+  "fr": {
+    "language_name": "Français",
+    "og_locale": "fr_FR",
+    "brand": "Inky",
+    "skip": "Aller au contenu",
+    "menu_label": "Menu principal",
+    "language_label": "Langue",
+    "nav": { "index": "Accueil", "support": "Aide", "privacy": "Confidentialité", "terms": "Conditions" },
+    "footer_contact": "Une question ? Écrivez-nous à",
+    "footer_trademark": "Apple et App Store sont des marques d'Apple Inc.",
+    "store_small": "Télécharger dans l'",
+    "store_soon": "Bientôt sur l'App Store",
+    "not_found_title": "Page introuvable",
+    "not_found_body": "Inky a cherché partout, mais n'a pas trouvé cette page. <a href=\"/fr/\">Retour à l'accueil</a>."
+  }
+}
